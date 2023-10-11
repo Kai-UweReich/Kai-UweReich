@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kai-UweReich
 - 👀 I’m interested in Aspen Simulations, AnsysCFX, Java Simulations, Matlab implementations for process engineers
 - 🌱 I’m currently learning working with git :)
-- 💞️ I’m looking to collaborate on Aspne Plus SImulations
+- 💞️ I’m looking to collaborate on Aspen Plus Simulations
 - 📫 How to reach me just massege me over git
 
 <!---
